@@ -4,7 +4,7 @@ This repository contains the code developed during the Angular course held on th
 
 ![Angular Course](https://github.com/marcomattolab/frontend/blob/main/angular-course.png)
 
-![Angular Course](https://github.com/marcomattolab/frontend/blob/main/Timeline.png)
+![Angular Course](https://github.com/marcomattolab/frontend/blob/main/frontend.png)
 
 # Installing the Angular CLI
 
