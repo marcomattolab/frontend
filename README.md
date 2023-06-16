@@ -15,7 +15,7 @@ With the following command the angular-cli will be installed globally in your ma
 
 We can install the master branch using the following commands:
 
-    git clone https://github.com/marcomattolab/angular.git
+    git clone https://github.com/marcomattolab/frontend.git
     
 # To run the Development UI Server
 
