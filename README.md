@@ -1,10 +1,21 @@
+# Course Frontend 2023
+
+This repository contains the code developed during the Frontend course held on the [Google CLASSROOM](https://classroom.google.com/c/NjEzOTE0MTI2Mzkz).
+
+Course outline:
+- HTML
+- CSS
+- Javascript
+- Typescript
+  
+![Angular Course](https://github.com/marcomattolab/frontend/blob/main/frontend.png)
+
+
 # Course Angular 2023
 
 This repository contains the code developed during the Angular course held on the [Google CLASSROOM](https://classroom.google.com/c/NjEzOTE0MTI2Mzkz).
 
 ![Angular Course](https://github.com/marcomattolab/frontend/blob/main/angular-course.png)
-
-![Angular Course](https://github.com/marcomattolab/frontend/blob/main/frontend.png)
 
 # Installing the Angular CLI
 
